@@ -42,7 +42,7 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show() 
 */
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/d8345af3-1898-4562-9199-1852d2db7153)
 
